@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.201
+
+- Updated to parity with Claude Code v2.1.201
+
 ## 0.3.200
 
 - Added `'manual'` as an accepted alias for the `'default'` permission mode in SDK inputs
